@@ -13,54 +13,56 @@ OBS Studio <https://obsproject.com>
    :alt: OBS Studio Discord Server
    :target: https://obsproject.com/discord
 
-What is OBS Studio?
+OBS Studio nedir?
 -------------------
 
-OBS Studio is software designed for capturing, compositing, encoding,
-recording, and streaming video content, efficiently.
+OBS Studio, yakalama, birleştirme, kodlama için tasarlanmış bir yazılımdır.
+OBS Studio, video içeriğini verimli bir şekilde kaydetme ve yayınlamaya yarayan
+açık kaynalı bir yazılımdır.
 
-It's distributed under the GNU General Public License v2 (or any later
-version) - see the accompanying COPYING file for more details.
+GNU Genel Kamu Lisansı v2 (veya daha sonraki herhangi bir lisans) altında dağıtılır.
+versiyonu) - daha fazla ayrıntı için beraberindeki KOPYALAMA dosyasına bakın.
 
-Quick Links
+Hızlı Bağlantılar
 -----------
 
-- Website: https://obsproject.com
+- Web sitesi: https://obsproject.com
 
-- Help/Documentation/Guides: https://github.com/obsproject/obs-studio/wiki
+- Yardım/Dokümantasyon/Kılavuzlar: https://github.com/obsproject/obs-studio/wiki
 
-- Forums: https://obsproject.com/forum/
+- Forumlar: https://obsproject.com/forum/
 
-- Build Instructions: https://github.com/obsproject/obs-studio/wiki/Install-Instructions
+- Yapı Talimatları: https://github.com/obsproject/obs-studio/wiki/Install-Instructions
 
-- Developer/API Documentation: https://obsproject.com/docs
+- Geliştirici/API Dokümantasyonu: https://obsproject.com/docs
 
-- Donating/backing/sponsoring: https://obsproject.com/contribute
+- Bağışta bulunmak/desteklemek/sponsor olmak: https://obsproject.com/contribute
 
-- Bug Tracker: https://github.com/obsproject/obs-studio/issues
+- Hata İzleyici: https://github.com/obsproject/obs-studio/issues
 
-Contributing
+Katkıda Bulunmak
 ------------
 
-- If you would like to help fund or sponsor the project, you can do so
-  via `Patreon <https://www.patreon.com/obsproject>`_, `OpenCollective
-  <https://opencollective.com/obsproject>`_, or `PayPal
-  <https://www.paypal.me/obsproject>`_.  See our `contribute page
-  <https://obsproject.com/contribute>`_ for more information.
+- Projeyi finanse etmeye veya sponsor olmaya yardımcı olmak isterseniz, 
+  bunu `Patreon <https://www.patreon.com/obsproject>`_, `OpenCollective
+  <https://opencollective.com/obsproject>`_, veya `PayPal
+  <https://www.paypal.me/obsproject>`_.  aracılığıyla yapabilirsiniz. Daha fazla bilgi için `contribute page
+  <https://obsproject.com/contribute>`_ bakın.
+  
 
-- If you wish to contribute code to the project, please make sure to
-  read the coding and commit guidelines:
-  https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst
+- Projeye kod katkısında bulunmak istiyorsanız, lütfen kodlama ve taahhüt yönergelerini 
+  okuduğunuzdan emin olun: https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.rst
+  
 
-- Developer/API documentation can be found here:
-  https://obsproject.com/docs
+-Geliştirici/API belgelerine buradan ulaşabilirsiniz: 
+ https://obsproject.com/docs
 
-- If you wish to contribute translations, do not submit pull requests.
-  Instead, please use Crowdin.  For more information read this page:
-  https://obsproject.com/wiki/How-To-Contribute-Translations-For-OBS
+- Çevirilere katkıda bulunmak istiyorsanız, çekme istekleri göndermeyin.
+  Bunun yerine lütfen Crowdin'i kullanın. 
+  Daha fazla bilgi için bu sayfayı okuyun: https://obsproject.com/wiki/How-To-Contribute-Translations-For-OBS
 
-- Other ways to contribute are by helping people out with support on
-  our forums or in our community chat.  Please limit support to topics
-  you fully understand -- bad advice is worse than no advice.  When it
-  comes to something that you don't fully know or understand, please
-  defer to the official help or official channels.
+- Katkıda bulunmanın diğer yolları, insanlara destek konusunda yardımcı olmaktır
+  forumlarımızda veya topluluk sohbetimizde.  Lütfen desteği konularla sınırlayın
+  Kötü tavsiye, hiç tavsiye almamaktan daha kötüdür.  Ne zaman
+  tam olarak bilmediğiniz veya anlamadığınız bir şey söz konusu olduğunda, lütfen
+  resmi yardıma veya resmi kanallara başvurun.
